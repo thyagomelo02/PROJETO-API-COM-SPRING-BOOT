@@ -1,3 +1,2 @@
 Projeto de API Rest com spring boot
-
-Michelli Brito
+Criado a partir de video-aulas da Michelli Brito
